@@ -1,4 +1,4 @@
-````md
+
 # MustHaveConfig Operator
 
 A small Kubernetes operator written in Go using Kubebuilder.  
