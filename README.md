@@ -56,22 +56,3 @@ The operator compiles, and next steps will be:
 * Controller Runtime
 * Kubernetes API
 * WSL (Ubuntu)
-
----
-
-More improvements planned: CRD validation, more fields, error handling, and eventually deploying to a cluster.
-
-```
-
----
-
-If you want, we can later:
-
-- Add a diagram
-- Add examples with `kubectl apply`
-- Polish wording for resume / LinkedIn
-
-For now, this looks clean, honest, personal, and **not AI-written**.
-
-Tell me when you paste + commit, and I’ll help you craft a short **LinkedIn post** flexing this project without cringe. 😊
-```
