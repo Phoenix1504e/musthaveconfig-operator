@@ -1,0 +1,9 @@
+apiVersion: ops.aditya.dev/v1alpha1
+kind: MustHaveConfig
+metadata:
+  name: demo-config
+  namespace: default
+spec:
+  namespace: default
+  key: message
+  value: "Hello from kind"
